@@ -5,3 +5,4 @@ out
 *.zip
 *.7z
 /result
+/.idea/workspace.xml
