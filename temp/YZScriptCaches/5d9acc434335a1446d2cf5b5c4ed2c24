@@ -1,0 +1,1 @@
+require([],function(){var i=$(".js-cube2-table-wrap").width(),e=i%4,t=i+(0==e?0:4-e);$(".js-custom-cube2-table").width(t).css("visibility","visible")}),define("main",function(){});

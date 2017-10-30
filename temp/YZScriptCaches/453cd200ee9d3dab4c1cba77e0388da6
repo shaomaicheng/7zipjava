@@ -1,0 +1,1 @@
+.dialog{position:fixed;z-index:13;width:85%;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);-moz-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);text-align:center;background:#FAFAFC;border-radius:4px}.dialog-inner .dialog-header{padding:1.2em 20px .5em}.dialog-inner .dialog-body{text-align:left}

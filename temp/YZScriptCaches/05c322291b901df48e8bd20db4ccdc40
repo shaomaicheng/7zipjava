@@ -1,0 +1,1 @@
+require([],function(){var i=$(".js-showcase-wrapper").width(),s=i%3,e=i+(0==s?0:3-s);$(".js-custom-showcase-wrap").width(e).css("visibility","visible")}),define("main",function(){});

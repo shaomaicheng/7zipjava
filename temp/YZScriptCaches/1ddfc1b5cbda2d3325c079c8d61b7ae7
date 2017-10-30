@@ -1,0 +1,1 @@
+require([],function(){var i=$(".js-textarea");$(".js-item").on("click",function(){var n=$(this);i[0].blur(),i[0].focus(),i[0].blur(),i[0].focus(),setTimeout(function(){i.click()},350),i.val(n.text())}),i.on("focus",function(){$("body").prepend("<div>focused</div>")})}),define("main",function(){});

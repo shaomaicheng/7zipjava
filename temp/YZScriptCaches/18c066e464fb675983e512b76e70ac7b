@@ -1,0 +1,1 @@
+.fuwu-hover-container{position:fixed;width:100%;top:0px;left:0px;z-index:999;background-color:rgba(0,0,0,0.4);color:#fff;padding:10px 0px;margin:0px;font-size:14px}.fuwu-hover-container p{padding:5px 10px;font-size:14px}.fuwu-hover-container a{border:none;border-radius:0px;padding:5px 9px;margin-right:10px;font-size:14px}

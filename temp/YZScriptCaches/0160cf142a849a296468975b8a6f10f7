@@ -1,0 +1,1 @@
+$(function(){$(".js-download-link").click(function(){var n=$(this).attr("href");return Logger&&Logger.log({fm:"click",link:encodeURIComponent(window.location.href)}).then(function(){location.href=n}),!1})}),define("main",function(){});

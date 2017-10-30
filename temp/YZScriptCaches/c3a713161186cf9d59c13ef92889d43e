@@ -1,0 +1,1 @@
+require([],function(){$("#peerpay-share-btn button").click()}),define("main",function(){});

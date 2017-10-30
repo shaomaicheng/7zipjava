@@ -1,0 +1,1 @@
+require([],function(){$(function(){$(".js-mini-counter").MiniCounter({callback:function(n){$(".js-counter-msg").html('<h3>订单状态：你的订单已取消。</h3><hr /><p class="c-orange">你的订单因超时未付款，已经自动取消。</p>')}})})}),define("main",function(){});
